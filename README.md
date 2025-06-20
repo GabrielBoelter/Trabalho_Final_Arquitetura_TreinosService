@@ -97,7 +97,7 @@ TreinosService/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/academia-treinos-service.git
+   git clone https://github.com/GabrielBoelter/Trabalho_Final_Arquitetura_TreinosService/tree/main
    ```
 
 2. Execute a aplicação pelo **Visual Studio 2022**.
@@ -111,10 +111,8 @@ TreinosService/
 
 ## 📂 Repositórios Relacionados
 
-- [`academia-alunos-service`](https://github.com/SEU_USUARIO/academia-alunos-service)
-- [`academia-pagamentos-service`](https://github.com/SEU_USUARIO/academia-pagamentos-service)
-
-> Substitua os links pelos seus repositórios reais no GitHub.
+- [`academia-alunos-service`](https://github.com/GabrielBoelter/Trabalho_Final_Arquitetura_AlunosService)
+- [`academia-pagamentos-service`](https://github.com/GabrielBoelter/Trabalho_Final_Arquitetura_PagamentosService)
 
 ---
 
