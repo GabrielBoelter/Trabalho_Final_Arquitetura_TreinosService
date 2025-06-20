@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "TreinosService.Controllers.TreinoController",
+    "Method": "Criar",
+    "RelativePath": "api/treinos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "TreinosService.DTOs.TreinoRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TreinosService.Controllers.TreinoController",
+    "Method": "Listar",
+    "RelativePath": "api/treinos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TreinosService.Controllers.TreinoController",
+    "Method": "BuscarPorId",
+    "RelativePath": "api/treinos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TreinosService.Controllers.TreinoController",
+    "Method": "Deletar",
+    "RelativePath": "api/treinos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
